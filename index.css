@@ -1,0 +1,21 @@
+body {
+    font-size: auto;
+}
+
+li {
+    text-align: left;
+    font-style: italic;
+    font-size: 16px;
+}
+
+h1, h2, p {
+    text-align: center
+}
+
+h3 {
+    text-decoration: underline
+}
+
+small {
+    font-family: "Times New Roman", Times, serif;
+}
